@@ -1,0 +1,53 @@
+.item {
+  border-top: solid grey 1px;
+}
+
+select {
+  border: none;
+  height: 40px;
+  padding-left: 10px;
+}
+
+#discount, .bot  {
+  border: none;
+  height: 30px;
+}
+.bot {
+  color: white;
+}
+
+.blues {
+  background-color: #9bd6e4;
+  color: blue;
+  font-weight: bold;
+}
+
+.greens {
+  background-color: #8be289;
+  color: green;
+  font-weight: bold;
+}
+
+.oneClicks {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  border: solid thin red;
+  height: 30px;
+}
+
+.twoClicks {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: solid thin red;
+  height: 30px;
+}
+
+.leaves {
+  background-color: lightgrey;
+  color: green;
+  font-weight: bold;
+  border: solid thin red;
+  height: 30px;
+}
